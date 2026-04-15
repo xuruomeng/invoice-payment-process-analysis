@@ -1,0 +1,9 @@
+payment_id,invoice_id,client,payment_date,amount_paid,payment_method
+PAY001,INV001,Alpha Retail GmbH,2025-02-10,1710,Bank Transfer
+PAY002,INV002,Alpha Retail GmbH,2025-05-12,1260,Bank Transfer
+PAY003,INV003,BlueTech Solutions,2025-03-18,1800,Bank Transfer
+PAY004,INV005,Green Energy Partners,2025-03-12,1078,Bank Transfer
+PAY005,INV007,NextGen Finance,2025-04-20,1430,Credit Card
+PAY006,INV008,Vision Media Studio,2025-05-10,1067,Bank Transfer
+PAY007,INV010,BlueTech Solutions,2025-09-10,1220,Bank Transfer
+PAY008,INV012,Vision Media Studio,2025-08-30,760,Credit Card
