@@ -6,11 +6,17 @@ The project uses a small simulated business dataset with client, project, invoic
 
 ## Dashboard Preview
 
-### Example with overdue invoices
-![Invoice Collection Dashboard - Overdue Example](images/invoice_collection_dashboard_excel_overdue_example.png)
+### Excel example with overdue invoices
+![Invoice Collection Dashboard - Excel Overdue Example](images/invoice_collection_dashboard_excel_overdue_example.png)
 
-### Example without overdue invoices
-![Invoice Collection Dashboard - No Overdue Example](images/invoice_collection_dashboard_excel_no_overdue_example.png)
+### Excel example without overdue invoices
+![Invoice Collection Dashboard - Excel No Overdue Example](images/invoice_collection_dashboard_excel_no_overdue_example.png)
+
+### Power BI example with overdue invoices
+![Invoice Collection Dashboard - Power BI Overdue Example](images/invoice_collection_dashboard_powerBI_overdue_example.png)
+
+### Power BI example without overdue invoices
+![Invoice Collection Dashboard - Power BI No Overdue Example](images/invoice_collection_dashboard_powerBI_no_overdue_example.png)
 
 ## Project Focus
 
