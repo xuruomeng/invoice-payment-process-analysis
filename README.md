@@ -2,7 +2,7 @@
 
 This is a personal portfolio project I built to practice SQL-based invoice tracking, payment monitoring, and collection reporting.
 
-The project uses a small simulated business dataset with client, project, invoice, and payment data. I used SQL to explore the data, create payment-related summary tables, and then built an Excel dashboard with Power Pivot and a client slicer to review account-level invoice and overdue information.
+The project uses a small simulated business dataset with client, project, invoice, and payment data. I used SQL to explore the data, create payment-related summary tables, and then built both an Excel dashboard and a Power BI dashboard to review account-level invoice and overdue information.
 
 ## Dashboard Preview
 
@@ -42,6 +42,7 @@ The project uses four source tables:
 - SQL
 - Excel
 - Power Pivot
+- Power BI
 - GitHub
 
 ## SQL Skills Used
@@ -57,7 +58,9 @@ The project uses four source tables:
 
 ## Dashboard Content
 
-The Excel dashboard includes:
+The project includes both an Excel version and a Power BI version of the dashboard.
+
+Main dashboard elements include:
 
 - client slicer
 - total invoiced amount
@@ -86,13 +89,16 @@ The Excel dashboard includes:
 ### Images
 - `images/invoice_collection_dashboard_excel_overdue_example.png`
 - `images/invoice_collection_dashboard_excel_no_overdue_example.png`
+- `images/invoice_collection_dashboard_powerBI_overdue_example.png`
+- `images/invoice_collection_dashboard_powerBI_no_overdue_example.png`
 
 ## What I Practiced
 
 - exploring invoice and payment data with SQL
 - summarizing unpaid and overdue exposure by client
 - joining invoice and payment records
-- building a client-level Excel dashboard with Power Pivot and a slicer
+- building client-level dashboards in Excel and Power BI
+- working with slicers, KPI cards, and invoice detail views
 - presenting the work in a portfolio format on GitHub
 
 ## Author
